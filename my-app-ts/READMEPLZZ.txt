@@ -1,0 +1,1 @@
+Okay, nice, nice. Here's the main app folder! Go to nextjs-blog to look at next.js app and vercel stuff
